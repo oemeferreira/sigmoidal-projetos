@@ -14,13 +14,13 @@ Neste projeto, vamos abordar o problema das fraudes em cartões de crédito util
 
 Vamos explorar diferentes conjuntos de dados e aplicar algoritmos de aprendizado de máquina para criar um sistema capaz de detectar transações fraudulentas em tempo real.
 
-Ao utilizar dados mascarados, esperamos poder realizar nossa análise de maneira mais segura e ética, protegendo os dados pessoais e confidenciais dos indivíduos envolvidos. 
+Ao utilizar dados mascarados, pude realizar nossa análise de maneira mais segura e ética, protegendo os dados pessoais e confidenciais dos indivíduos envolvidos. 
 
-Além disso, esperamos contribuir para o conhecimento científico sobre o tema, fornecendo insights valiosos para futuras pesquisas e aplicações práticas.
+Além disso, espero contribuir para o conhecimento científico sobre o tema, fornecendo insights valiosos para futuras pesquisas e aplicações práticas.
 
-No final deste projeto, esperamos ter criado um sistema eficaz para detectar fraudes em cartões de crédito e ajudar a proteger os consumidores e as empresas de perdas financeiras. 
+No final deste projeto, criei um sistema eficaz para detectar fraudes em cartões de crédito e ajudar a proteger os consumidores e as empresas de perdas financeiras. 
 
-Vamos trabalhar diligentemente para atingir esse objetivo e fornecer uma solução valiosa para este problema complexo.
+Trabalhei diligentemente para atingir esse objetivo e fornecer uma solução valiosa para este problema complexo.
 
 Confira o notebook da [Detecção de Fraudes em Cartão de Crédito](https://github.com/oemeferreira/sigmoidal-projetos/blob/main/Introducao-Machine-Learning/Deteccao_de_Fraude_em_Cartoes_de_Credito.ipynb)
 
