@@ -11,7 +11,7 @@ Nessa página, eu demonstro minhas habilidades de resolver problemas de negócio
 
 2. [Panorama do Covid-19 no Brasil](https://github.com/oemeferreira/sigmoidal-projetos/blob/main/VIsualizacao%20de%20Dados/Panorama_do_COVID_19_no_Brasil.ipynb)
 
-- Projeto onde foi feito uma **Análise de Dados** para verificar o panorama do Covid-19 no Brasil utilizando dados públicos da *Our World in Data*, onde pudemos chegar a algums conclusões.
+- Projeto onde foi feito uma **Análise de Dados** para verificar o panorama do Covid-19 no Brasil utilizando dados públicos da *Our World in Data*, onde pudemos chegar a algumas conclusões.
 - Neste notebook foram utilizadas as bibliotecas: *Pandas*, *Matplotlib*, *Seaborn* e *Numpy*.
 
 3. [Detecção de Fraudes em Cartão de Crédito](https://github.com/oemeferreira/sigmoidal-projetos/blob/main/Introducao-Machine-Learning/Deteccao_de_Fraude_em_Cartoes_de_Credito.ipynb)
