@@ -1,8 +1,16 @@
 # Projetos do curso Data Science na Prática da Sigmoidal
 
-Seja muito bem-vindo (a) ao meu Portfólio de Projetos de Ciência de Dados.
+**Bem-vindo à minha página de projetos de Ciência de Dados!** 
 
-Nessa página, eu demonstro minhas habilidades de resolver problemas de negócio utilizando conceitos e ferramentas da Ciência de Dados, através de projetos com dados públicos.
+Neste espaço, apresento minhas habilidades de resolução de problemas de negócio utilizando conceitos e ferramentas da Ciência de Dados. 
+
+Para isso, realizo projetos com dados públicos, aplicando técnicas de coleta, limpeza, exploração e análise de dados, bem como algoritmos de aprendizado de máquina.
+
+A **Ciência de Dados e o machine learning** são áreas em constante crescimento e evolução, e estar sempre atualizado é fundamental para poder extrair insights valiosos e tomar decisões baseadas em dados. 
+
+Por isso, **estou sempre buscando aprender e aperfeiçoar minhas habilidades** nestes campos, seja através de cursos online, participação em comunidades e troca de experiências com colegas.
+
+Ao longo desta página, você poderá conferir alguns dos **projetos que realizei, onde apliquei os conhecimentos adquiridos** em Ciência de Dados e machine learning para resolver problemas de negócio de diferentes áreas.
 
 1. [Análise de Dados do Airbnb de Lisboa](https://github.com/oemeferreira/sigmoidal-projetos/blob/main/Analise-de-Dados-Pandas/Analisando_os_Dados_do_Airbnb.ipynb)
 
