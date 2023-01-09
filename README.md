@@ -26,6 +26,10 @@ Ao longo desta página, você poderá conferir alguns dos **projetos que realize
 - Neste projeto, iremos abordar o problema das fraudes em cartões de crédito, utilizando algoritmos de *Machine Learning* visando inibir ou evitar transações fraudulentas.
 - Foram utilizadas as bibliotecas: *Pandas*, *Matplotlib*, *Seaborn*, *Numpy* e principalmente *Scikit-Learn*.
 
+4. Churn Prediction para uma empresa de telecomunicações
+- Neste projeto, iremos abordar o problema cancelamentos de planos, utilizando algoritmos de Machine Learning visando inibir ou evitar os cancelamentos.
+- Foram utilizadas as bibliotecas: Pandas, Matplotlib, Seaborn, Numpy e principalmente Scikit-Learn.
+
 **Links para me acharem:**
 * [LinkedIn](https://www.linkedin.com/in/oemeferreira)
 * [Medium](https://medium.com/@emeferreira)
