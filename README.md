@@ -26,7 +26,7 @@ Ao longo desta página, você poderá conferir alguns dos **projetos que realize
 - Neste projeto, iremos abordar o problema das fraudes em cartões de crédito, utilizando algoritmos de *Machine Learning* visando inibir ou evitar transações fraudulentas.
 - Foram utilizadas as bibliotecas: *Pandas*, *Matplotlib*, *Seaborn*, *Numpy* e principalmente *Scikit-Learn*.
 
-4. Churn Prediction para uma empresa de telecomunicações
+4. [Churn Prediction para uma empresa de telecomunicações](https://github.com/oemeferreira/sigmoidal-projetos/blob/main/Machine-Learning-Avancado/Churn_Prediction_para_empresa_Hyperconnect_Telecom.ipynb)
 - Neste projeto, iremos abordar o problema cancelamentos de planos, utilizando algoritmos de Machine Learning visando inibir ou evitar os cancelamentos.
 - Foram utilizadas as bibliotecas: Pandas, Matplotlib, Seaborn, Numpy e principalmente Scikit-Learn.
 
