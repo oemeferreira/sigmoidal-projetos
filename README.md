@@ -27,7 +27,7 @@ Ao longo desta página, você poderá conferir alguns dos **projetos que realize
 - Foram utilizadas as bibliotecas: *Pandas*, *Matplotlib*, *Seaborn*, *Numpy* e principalmente *Scikit-Learn*.
 
 4. [Churn Prediction para uma empresa de telecomunicações](https://github.com/oemeferreira/sigmoidal-projetos/blob/main/Machine-Learning-Avancado/Churn_Prediction_para_empresa_Hyperconnect_Telecom.ipynb)
-- Neste projeto, iremos abordar o problema cancelamentos de planos, utilizando algoritmos de Machine Learning visando inibir ou evitar os cancelamentos.
+- Neste projeto, iremos abordar o problema cancelamentos de planos, utilizando algoritmos de Machine Learning visando reduzir a quantidade de cancelamentos.
 - Foram utilizadas as bibliotecas: Pandas, Matplotlib, Seaborn, Numpy e principalmente Scikit-Learn.
 
 **Links para me acharem:**
