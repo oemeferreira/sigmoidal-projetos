@@ -11,7 +11,7 @@ A plataforma do Airbnb é uma grande opção para os amantes de viajens.
 
 E como a análise de dados podem nos ajudar a tomar as decisões?
 
-Neste dataset, eu exploro as alternativas de escolha na Cidade de Paris. Avaliando preços, melhores bairros e quantidade de noites médias mínimas necessesárias para conseguir locar um imóvel nesta cidade.
+Neste dataset, eu exploro as alternativas de escolha na Cidade de Lisboa. Avaliando preços, melhores bairros e quantidade de noites médias mínimas necessesárias para conseguir locar um imóvel nesta cidade.
 
 Se está curioso para saber mais sobre esta cidade e como o Airbnb funciona por lá, dá uma conferida nessa [Análise de Dados do Airbnb de Lisboa](https://github.com/oemeferreira/sigmoidal-projetos/blob/main/Analise-de-Dados-Pandas/Analisando_os_Dados_do_Airbnb.ipynb)
 
