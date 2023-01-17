@@ -30,6 +30,10 @@ Ao longo desta página, você poderá conferir alguns dos **projetos que realize
 - Neste projeto, iremos abordar o problema cancelamentos de planos, utilizando algoritmos de Machine Learning visando reduzir a quantidade de cancelamentos.
 - Foram utilizadas as bibliotecas: Pandas, Matplotlib, Seaborn, Numpy e principalmente Scikit-Learn.
 
+4. [Previsão de custo de Seguro de Vida](https://github.com/oemeferreira/sigmoidal-projetos/blob/main/AutoML-Regressao/Previsao_custo_seguro_vida_com_PyCaret.ipynb)
+- Neste projeto, iremos abordar o problema de previsão de valor de um seguro de vida, utilizando algoritmos de Machine Learning visando raumentar o faturamento da empresa, cobrando o valor correto pelo seguro do cliente.
+- Foram utilizadas as bibliotecas: Pandas, Matplotlib, Seaborn, Numpy e PyCaret
+
 **Links para me acharem:**
 * [LinkedIn](https://www.linkedin.com/in/oemeferreira)
 * [Medium](https://medium.com/@emeferreira)
