@@ -34,6 +34,10 @@ Ao longo desta página, você poderá conferir alguns dos **projetos que realize
 - Neste projeto, iremos abordar o problema de previsão de valor de um seguro de vida, utilizando algoritmos de Machine Learning visando raumentar o faturamento da empresa, cobrando o valor correto pelo seguro do cliente.
 - Foram utilizadas as bibliotecas: Pandas, Matplotlib, Seaborn, Numpy e PyCaret
 
+6. [Classificação de risco gestacional utilizando PyCaret](https://github.com/oemeferreira/sigmoidal-projetos/blob/main/AutoML-Classificacao/Classifica%C3%A7%C3%A3o_de_risco_gestacional_com_PyCaret.ipynb)
+- Este projeto tem como objetivo classificar a saúde gestacional para prevenir a mortalidade infantil e materna, utilizando a bilbioteca `PyCaret`.
+- Foram utilizadas as bibliotecas: Pandas, Matplotlib, Seaborn, Numpy e PyCaret
+
 **Links para me acharem:**
 * [LinkedIn](https://www.linkedin.com/in/oemeferreira)
 * [Medium](https://medium.com/@emeferreira)
