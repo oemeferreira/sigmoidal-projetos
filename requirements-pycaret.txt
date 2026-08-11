@@ -1,0 +1,30 @@
+# Ambiente separado para os dois notebooks de AutoML:
+#
+#   AutoML-Regressao/     Previsao de custo de seguro de vida
+#   AutoML-Classificacao/ Classificacao de risco gestacional
+#
+# Por que separado: o PyCaret 3.3.2 fixa faixas que conflitam com o
+# requirements.txt principal deste repositorio.
+#
+#   pycaret exige            requirements.txt usa
+#   matplotlib<3.8.0         matplotlib==3.8.0
+#   pandas<2.2.0             pandas==2.1.4      (compativel)
+#   numpy<1.27               numpy==1.26.2      (compativel)
+#   scipy<=1.11.4
+#
+# O conflito real e o matplotlib. Instalar tudo junto quebra um dos lados.
+#
+# Crie um virtualenv proprio:
+#
+#   python -m venv .venv-pycaret
+#   .venv-pycaret/Scripts/activate      (Windows)
+#   source .venv-pycaret/bin/activate   (Linux/macOS)
+#   pip install -r requirements-pycaret.txt
+
+pycaret==3.3.2
+
+# Relatorio exploratorio usado no notebook de risco gestacional
+sweetviz==2.3.1
+
+# Ambiente de notebook
+ipykernel==6.28.0

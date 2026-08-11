@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# PyCaret e SweetViz gravam artefatos na pasta de trabalho
+logs.log
+catboost_info/
+*.pkl
+
+# Credenciais
+.env
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
