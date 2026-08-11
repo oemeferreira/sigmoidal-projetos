@@ -1,0 +1,26 @@
+# Dependencias dos notebooks que NAO usam PyCaret:
+#
+#   Analise-de-Dados-Pandas/     Airbnb
+#   VIsualizacao de Dados/       COVID-19
+#   Introducao-Machine-Learning/ Deteccao de fraude
+#   Machine-Learning-Avancado/   Churn
+#
+# Os dois notebooks de AutoML precisam de um ambiente separado. Veja
+# requirements-pycaret.txt e o motivo explicado la.
+
+pandas==2.1.4
+numpy==1.26.2
+matplotlib==3.8.0
+seaborn==0.13.0
+scikit-learn==1.3.2
+xgboost==2.0.3
+lightgbm==4.2.0
+imbalanced-learn==0.11.0
+
+# Curvas de avaliacao no notebook de deteccao de fraude.
+# Projeto sem manutencao desde 2018: se quebrar com scikit-learn novo,
+# os graficos podem ser refeitos direto com sklearn.metrics.
+scikit-plot==0.3.7
+
+# Ambiente de notebook
+ipykernel==6.28.0
